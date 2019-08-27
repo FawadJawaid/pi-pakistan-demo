@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"><u>VOD Tabs</u></string>
+    <string name="action_settings">Settings</string>
+    <string name="string_internet_connection_not_available">Internet Connection Not Available</string>
+    <string name="string_some_thing_wrong">Something went wrong.</string>
+    <string name="string_getting_VODTabs_message">Getting VODTabs Data</string>
+    <string name="string_getting_VODTabs_title">Please Wait...</string>
+</resources>
